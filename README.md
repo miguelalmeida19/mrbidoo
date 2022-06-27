@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Miguel Almeida
-- 👀 I’m interested in Mobile Development and AI.
-- 🌱 I’m currently learning more about Flutter.
-- 💞️ I’m looking to collaborate with Blip.
-- 📫 How to reach me : miguelalmeida2002@gmail.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Seymour+One&size=50&duration=8000&color=F7BC15&vCenter=true&width=800&height=100&lines=Miguel+Almeida)](https://git.io/typing-svg)
 
-<!---
-mrbidoo/mrbidoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# **Hello!** 👋
+
+I'm Miguel, a 19 years old Computer Engineer from Portugal.
+
+------
+
+# **Skills**
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=League+Gothic&size=25&duration=6000&color=F7BC15&vCenter=true&width=200&lines=-+Java%2C+Python%2C+C%2C+Assembly+++++)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=League+Gothic&size=25&duration=6000&color=FDDD5C&vCenter=true&width=200&lines=-+Html%2C+Css%2C+Javascript)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=League+Gothic&size=25&duration=6000&color=FDFD97&vCenter=true&width=200&lines=-+Flutter%2C+Android+Studio)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=League+Gothic&size=25&duration=6000&color=AFC9CF&vCenter=true&width=200&lines=-+JPA%2C+Spring%2C+SQL%2C+H2)](https://git.io/typing-svg)
+
+------
+
+# **Extra Skills**
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=League+Gothic&size=25&duration=6000&color=789FCC&vCenter=true&width=200&lines=-+Photoshop%2C+Figma%2C+Adobe+XD)](https://git.io/typing-svg)
+
+------
