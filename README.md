@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Seymour+One&size=50&duration=2000&color=F7BC15&vCenter=true&width=800&height=100&lines=Miguel+Almeida+++++++++++++++++++++++++++++++++++++++++++++++++++++)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Seymour+One&size=50&duration=8000&color=F7BC15&vCenter=true&width=800&height=100&lines=Miguel+Almeida++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++)
 
 # **Hello!** 👋
 
